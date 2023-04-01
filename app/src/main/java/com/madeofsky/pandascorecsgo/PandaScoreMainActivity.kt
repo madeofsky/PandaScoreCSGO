@@ -3,7 +3,7 @@ package com.madeofsky.pandascorecsgo
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.madeofsky.pandascorecsgo.databinding.ActivityPandaScoreMainBinding
-import com.madeofsky.pandascorecsgo.matches.PandaScoreMatchesFragment
+import com.madeofsky.pandascorecsgo.matches.ui.PandaScoreMatchesFragment
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
